@@ -1,2 +1,2 @@
 # News-Article-Classification
-Classify the news articles
+This is basic Machine Learning model for classifying the news articles.
